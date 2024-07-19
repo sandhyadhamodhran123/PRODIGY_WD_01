@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: navajowhite;
+    
+    
+}
+.container{
+    text-align: center;
+
+}
+.result{
+    font-size: 3rem;
+    color: black;
+    background: white;
+    padding: 30px  10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+
+}
+.result span{
+    width: 3rem;
+
+}
+.button button{
+    margin: 0.5rem;
+    border: none;
+    outline: none;
+    height: 43px;
+    width: 100px;
+    color: #1d261d;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 3px;
+    cursor: pointer;
+
+}
